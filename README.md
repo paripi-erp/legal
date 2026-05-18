@@ -20,15 +20,15 @@
 
 ## 🌐 公開 URL / Public URLs
 
-GitHub Pages が有効化されると、以下の URL でアクセス可能になります:
+カスタムドメイン `legal.paripi-erp.com` で公開中 (TLS 有効、Let's Encrypt 証明書):
 
-- ランディングページ: `https://paripi-erp.github.io/legal/`
-- 日本語: `https://paripi-erp.github.io/legal/README.ja`
-- 英語:   `https://paripi-erp.github.io/legal/README.en`
-- 中文:   `https://paripi-erp.github.io/legal/README.zh`
-- 한국어: `https://paripi-erp.github.io/legal/README.ko`
+- ランディングページ: <https://legal.paripi-erp.com/>
+- 日本語: <https://legal.paripi-erp.com/README.ja>
+- 英語:   <https://legal.paripi-erp.com/README.en>
+- 中文:   <https://legal.paripi-erp.com/README.zh>
+- 한국어: <https://legal.paripi-erp.com/README.ko>
 
-将来カスタムドメイン (例: `legal.paripi-erp.com`) を設定した場合も、同じパスでアクセス可能になります。
+GitHub Pages 直接 URL (バックアップ): <https://paripi-erp.github.io/legal/>
 
 ---
 

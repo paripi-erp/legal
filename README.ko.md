@@ -119,7 +119,7 @@
 
 **개인정보 보호 책임자**: Paripi ERP 주식회사 법무부
 **이메일**: privacy@paripi-erp.com
-**웹사이트**: https://paripi-erp.com/legal/privacy-policy-avatar
+**웹사이트**: https://legal.paripi-erp.com/
 **주소**: (일본 등록 주소 기재)
 
 ---

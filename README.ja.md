@@ -119,7 +119,7 @@
 
 **個人情報保護管理者**: Paripi ERP 株式会社 法務部
 **メール**: privacy@paripi-erp.com
-**Web**: https://paripi-erp.com/legal/privacy-policy-avatar
+**Web**: https://legal.paripi-erp.com/
 **住所**: (日本所在地を記載)
 
 ---

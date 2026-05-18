@@ -1,0 +1,21 @@
+# Credentials (絶対 commit しない / never commit)
+UsersUSER.winclawworkspacegithub-push.git-credentials
+*.git-credentials
+.git-credentials
+
+# Secrets / Keys
+*.pem
+*.jks
+*.keystore
+*.key
+secrets/
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

@@ -119,7 +119,7 @@ We may update this Policy. Material changes will be notified via in-app message 
 
 **Data Protection Officer**: Paripi ERP Co., Ltd. Legal Department
 **Email**: privacy@paripi-erp.com
-**Web**: https://paripi-erp.com/legal/privacy-policy-avatar
+**Web**: https://legal.paripi-erp.com/
 **Address**: (insert Japan registered address)
 
 ---
